@@ -1,0 +1,15 @@
+{
+    "library_name": "Library Lending & Membership Management Backend",
+    "fine_per_overdue_day": 2,
+    "items": [],
+    "members": [
+        {
+            "type": "ResearchStudent",
+            "member_id": "231216",
+            "name": "rishu",
+            "borrowing_limit": 2,
+            "borrowed_item_ids": []
+        }
+    ],
+    "loans": []
+}
